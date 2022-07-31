@@ -8,6 +8,7 @@ The Dough Bros Pizza Order, Delivery and Management System is a project develope
 
 <h1 align="center">
 <img src="images/title-banner.jpg"  height="auto" width="100%">
+<img src="images/database-cover.jpg"  height="auto" width="100%">
 </h1>
 
 # Table of Contents
