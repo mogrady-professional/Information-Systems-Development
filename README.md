@@ -15,6 +15,7 @@ The Dough Bros Pizza Order, Delivery and Management System is a project develope
 
 - [Project Overview](#project-overview)
 - [Table of Contents](#table-of-contents)
+- [About](#about)
 - [Project Description](#project-description)
 - [Business Process Model](#business-process-model)
 - [Technologies](#technologies)
@@ -23,6 +24,10 @@ The Dough Bros Pizza Order, Delivery and Management System is a project develope
 - [System Document](#system-document)
 - [Microsoft Azure Solution](#microsoft-azure-solution)
   - [Azure Portal](#azure-portal)
+
+# About
+
+Development of a Pizza Order Web Application using Agile software development methodology, including business analysis phases such as feasibility studies, requirements catalog's, functional/non-functional requirements, organisation charts, context diagrams, use case diagram, entiry relational diagrams, data flow diagrams, business process model. rich picture, sequence diagrams, system diagrams, data dictionary, implementation plan and schedule in terms of jira/gantt chart to include GDPR training and change management and data governance,
 
 # Project Description
 
